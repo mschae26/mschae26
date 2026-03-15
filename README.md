@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Myungsu Chae 👋
 
-<!--
-**mschae26/mschae26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CEO at **Nota AI**, leading the charge in hardware-aware AI optimization. My focus spans from Computer Vision (CV) to the latest advancements in Generative AI (GenAI).
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- **CEO at Nota AI:** We specialize in optimizing AI models to run efficiently on diverse hardware platforms.
+- **KAIST Alum:** Proud graduate of the Korea Advanced Institute of Science and Technology.
+- **Focus:** Bridging the gap between cutting-edge AI research and practical, hardware-efficient deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech & Interests
+- AI Model Optimization (Pruning, Quantization, NAS)
+- Computer Vision & Generative AI
+- On-device AI & Edge Computing
+
+---
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/mschae/)
+- [Nota AI Website](https://www.nota.ai)
+
+*"Optimizing AI for a smarter, more efficient world."*
